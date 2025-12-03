@@ -7,6 +7,3 @@
 - 🌱 I’m currently diving into SpringBoot & Angular
 - 🚀 I’m looking for an internship in web development.
   
-**My favorite techno is probably Java**
-
-## [My personnal website](https://nicosmos.com)
